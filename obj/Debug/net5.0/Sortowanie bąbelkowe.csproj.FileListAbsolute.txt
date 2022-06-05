@@ -1,0 +1,16 @@
+D:\Programowanie\C#\Sortowanie bąbelkowe\bin\Debug\net5.0\Sortowanie bąbelkowe.exe
+D:\Programowanie\C#\Sortowanie bąbelkowe\bin\Debug\net5.0\Sortowanie bąbelkowe.deps.json
+D:\Programowanie\C#\Sortowanie bąbelkowe\bin\Debug\net5.0\Sortowanie bąbelkowe.runtimeconfig.json
+D:\Programowanie\C#\Sortowanie bąbelkowe\bin\Debug\net5.0\Sortowanie bąbelkowe.runtimeconfig.dev.json
+D:\Programowanie\C#\Sortowanie bąbelkowe\bin\Debug\net5.0\Sortowanie bąbelkowe.dll
+D:\Programowanie\C#\Sortowanie bąbelkowe\bin\Debug\net5.0\ref\Sortowanie bąbelkowe.dll
+D:\Programowanie\C#\Sortowanie bąbelkowe\bin\Debug\net5.0\Sortowanie bąbelkowe.pdb
+D:\Programowanie\C#\Sortowanie bąbelkowe\obj\Debug\net5.0\Sortowanie bąbelkowe.csproj.AssemblyReference.cache
+D:\Programowanie\C#\Sortowanie bąbelkowe\obj\Debug\net5.0\Sortowanie bąbelkowe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie\C#\Sortowanie bąbelkowe\obj\Debug\net5.0\Sortowanie bąbelkowe.AssemblyInfoInputs.cache
+D:\Programowanie\C#\Sortowanie bąbelkowe\obj\Debug\net5.0\Sortowanie bąbelkowe.AssemblyInfo.cs
+D:\Programowanie\C#\Sortowanie bąbelkowe\obj\Debug\net5.0\Sortowanie bąbelkowe.csproj.CoreCompileInputs.cache
+D:\Programowanie\C#\Sortowanie bąbelkowe\obj\Debug\net5.0\Sortowanie bąbelkowe.dll
+D:\Programowanie\C#\Sortowanie bąbelkowe\obj\Debug\net5.0\ref\Sortowanie bąbelkowe.dll
+D:\Programowanie\C#\Sortowanie bąbelkowe\obj\Debug\net5.0\Sortowanie bąbelkowe.pdb
+D:\Programowanie\C#\Sortowanie bąbelkowe\obj\Debug\net5.0\Sortowanie bąbelkowe.genruntimeconfig.cache
