@@ -1,30 +1,29 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 
-namespace Sortowanie_bąbelkowe
+namespace Bubble_Sorter
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int numberCount = 10;
-            bool sorted = false;
+            int[] numbers = {2, 3, 5, 6, 8, 1};
 
-            int[] numbers = new int[numberCount];
-
-            Console.WriteLine("Podaj 10 liczb, po każdej kliknij 'Enter'");
-            for(int i = 0; i < numberCount; i++)
+            for(int i = 0; i < numbers.Length - 1; i++)
             {
-                numbers[i] = int.Parse(Console.ReadLine());
+                for(int j = 0; j < numbers.Length - i - 1; j++)
+                {
+                    if(numbers[j] > numbers[j+1])
+                    {
+                        int tmp = numbers[j];
+                        numbers[j] = numbers[j+1];
+                        numbers[j+1] = tmp;
+                    }
+                }
             }
 
-            while(!sorted)
+            for(int k = 0; k < numbers.Length; k++)
             {
-                foreach(int number in numbers)
-                {
-                    
-                }
+                Console.WriteLine(numbers[k]);
             }
         }
     }

@@ -1,0 +1,15 @@
+D:\Programowanie\C#\Bubble_Sorter\bin\Debug\net6.0\Bubble_Sorter.exe
+D:\Programowanie\C#\Bubble_Sorter\bin\Debug\net6.0\Bubble_Sorter.deps.json
+D:\Programowanie\C#\Bubble_Sorter\bin\Debug\net6.0\Bubble_Sorter.runtimeconfig.json
+D:\Programowanie\C#\Bubble_Sorter\bin\Debug\net6.0\Bubble_Sorter.dll
+D:\Programowanie\C#\Bubble_Sorter\bin\Debug\net6.0\Bubble_Sorter.pdb
+D:\Programowanie\C#\Bubble_Sorter\obj\Debug\net6.0\Bubble_Sorter.csproj.AssemblyReference.cache
+D:\Programowanie\C#\Bubble_Sorter\obj\Debug\net6.0\Bubble_Sorter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie\C#\Bubble_Sorter\obj\Debug\net6.0\Bubble_Sorter.AssemblyInfoInputs.cache
+D:\Programowanie\C#\Bubble_Sorter\obj\Debug\net6.0\Bubble_Sorter.AssemblyInfo.cs
+D:\Programowanie\C#\Bubble_Sorter\obj\Debug\net6.0\Bubble_Sorter.csproj.CoreCompileInputs.cache
+D:\Programowanie\C#\Bubble_Sorter\obj\Debug\net6.0\Bubble_Sorter.dll
+D:\Programowanie\C#\Bubble_Sorter\obj\Debug\net6.0\refint\Bubble_Sorter.dll
+D:\Programowanie\C#\Bubble_Sorter\obj\Debug\net6.0\Bubble_Sorter.pdb
+D:\Programowanie\C#\Bubble_Sorter\obj\Debug\net6.0\Bubble_Sorter.genruntimeconfig.cache
+D:\Programowanie\C#\Bubble_Sorter\obj\Debug\net6.0\ref\Bubble_Sorter.dll

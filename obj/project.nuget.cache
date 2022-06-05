@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ikYI1pSinWIMo+2BFqOQdGiGHuSWSl6pqF+sef8QNK/a+i1AwSmujFxJqofo6shOX+u8vicK3EajMaJuQY2pHg==",
+  "dgSpecHash": "9283/hONi6Rp9NK3G3U1VlUpIxTB7Li2HkqRc/Rm0gGAhDLFW0hF2EU1os6UOqhFrTd8pha7Z3CyWFGxTpmroQ==",
   "success": true,
-  "projectFilePath": "D:\\Programowanie\\C#\\Sortowanie_Babelkowe\\Sortowanie bąbelkowe.csproj",
+  "projectFilePath": "D:\\Programowanie\\C#\\Bubble_Sorter\\Bubble_Sorter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
