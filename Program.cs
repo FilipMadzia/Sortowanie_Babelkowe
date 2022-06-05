@@ -8,11 +8,23 @@ namespace Sortowanie_bąbelkowe
     {
         static void Main(string[] args)
         {
-            int[] numbers = {1, 2, 4, 6};
+            int numberCount = 10;
+            bool sorted = false;
 
-            foreach(int number in numbers)
+            int[] numbers = new int[numberCount];
+
+            Console.WriteLine("Podaj 10 liczb, po każdej kliknij 'Enter'");
+            for(int i = 0; i < numberCount; i++)
             {
-                Console.WriteLine(number);
+                numbers[i] = int.Parse(Console.ReadLine());
+            }
+
+            while(!sorted)
+            {
+                foreach(int number in numbers)
+                {
+                    
+                }
             }
         }
     }

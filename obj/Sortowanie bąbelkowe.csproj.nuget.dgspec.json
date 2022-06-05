@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programowanie\\C#\\Sortowanie bąbelkowe\\Sortowanie bąbelkowe.csproj": {}
+    "D:\\Programowanie\\C#\\Sortowanie_Babelkowe\\Sortowanie bąbelkowe.csproj": {}
   },
   "projects": {
-    "D:\\Programowanie\\C#\\Sortowanie bąbelkowe\\Sortowanie bąbelkowe.csproj": {
+    "D:\\Programowanie\\C#\\Sortowanie_Babelkowe\\Sortowanie bąbelkowe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programowanie\\C#\\Sortowanie bąbelkowe\\Sortowanie bąbelkowe.csproj",
+        "projectUniqueName": "D:\\Programowanie\\C#\\Sortowanie_Babelkowe\\Sortowanie bąbelkowe.csproj",
         "projectName": "Sortowanie bąbelkowe",
-        "projectPath": "D:\\Programowanie\\C#\\Sortowanie bąbelkowe\\Sortowanie bąbelkowe.csproj",
+        "projectPath": "D:\\Programowanie\\C#\\Sortowanie_Babelkowe\\Sortowanie bąbelkowe.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Programowanie\\C#\\Sortowanie bąbelkowe\\obj\\",
+        "outputPath": "D:\\Programowanie\\C#\\Sortowanie_Babelkowe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
